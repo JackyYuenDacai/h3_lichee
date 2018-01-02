@@ -6,3 +6,5 @@ To alter resolution:
 lichee/tools/pack/chips/sun8iw7p1/configs/nanopi-h3/board/sys_config_nanopi-m1.fex
   [disp init]
   ...
+and then build
+and fuse
