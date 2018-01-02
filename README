@@ -2,3 +2,7 @@
 Reference:
 http://wiki.friendlyarm.com/wiki/index.php/NanoPi_M1
 
+To alter resolution:
+lichee/tools/pack/chips/sun8iw7p1/configs/nanopi-h3/board/sys_config_nanopi-m1.fex
+  [disp init]
+  ...
